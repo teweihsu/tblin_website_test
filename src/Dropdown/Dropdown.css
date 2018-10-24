@@ -1,0 +1,10 @@
+.navbar-item {
+	display: inline-block; 
+	margin: 15px 45px 5px 45px;
+	font-size: 3vh;
+	
+}
+.navbar-item img {
+	height: 100px;
+	width: auto;
+}
