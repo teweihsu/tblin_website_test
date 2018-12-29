@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/tblin_website_test/precache-manifest.1ce98cf36cd5031da82ecf5610b28754.js"
+  "/tblin_website_test/precache-manifest.9d4aa14b3e414bc0d33a9bbda7f07946.js"
 );
 
 workbox.clientsClaim();
